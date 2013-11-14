@@ -1,7 +1,7 @@
 ModalSplitViewController
 ============
 
-For several reasons, it seems quite a few people (like me), whish to use a UISplitViewController in a "modal" fashion, but ends up finding limitations from the current framework. I still don't know why Apple didn't provide this out-of-the-box for us, as from a usability perspective, the UISplitViewController is almost like a UITabViewController. I also found much confusion on StackOverflow of people doing 'ugly hacks' to get this functionality.
+For several reasons, it seems quite a few people (like me), whish to use a UISplitViewController in a "modal" fashion, but ends up finding limitations from the current framework. I still don't know why Apple didn't provide this out-of-the-box for us, as from an usability perspective, the UISplitViewController is almost like a UITabViewController in terms of organizing/showing other views. I also found much confusion on StackOverflow of people doing 'ugly hacks' to get this functionality.
 
 To make things simpler and save time, checkout this code. One may use it directly, tweak it, or simply to learn from it.
 
