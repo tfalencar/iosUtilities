@@ -10,7 +10,7 @@ To make things simpler and save time, checkout this code. One may use it directl
 	mySplitViewController = [[ModalSplitViewController alloc] init];
 	mySplitViewController.delegate = self;
 
-	[parameterSplitViewController presentWithMasterViewController:masterViewController andDetailViewController:detailViewController completion:nil];
+	[mySplitViewController presentWithMasterViewController:masterViewController andDetailViewController:detailViewController completion:nil];
 
 	// when done:
 
