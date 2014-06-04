@@ -1,7 +1,7 @@
 ModalSplitViewController
 ============
 
->>>IMPORTANT UPDATE NOTE<<<<
+!IMPORTANT UPDATE NOTE!
 Apple finally implemented a solution to what I've been complaining below in the new CocoaTouch framework (iOS 8) with Adaptive View Controllers. I'm leaving this online though for reference purposes, however if you're targeting SDK 8 or higher, I recommend using the new models from Apple.
 
 
