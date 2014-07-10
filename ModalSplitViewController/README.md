@@ -1,10 +1,10 @@
 ModalSplitViewController
 ============
 
-!IMPORTANT UPDATE NOTE!
---
+#IMPORTANT UPDATE NOTE#
+
 Apple finally implemented a solution to what I've been complaining below in the new CocoaTouch framework (iOS 8) with Adaptive View Controllers. I'm leaving this online though for reference purposes, however if you're targeting SDK 8 or higher, I recommend using the new models from Apple.
---
+
 
 For several reasons, it seems quite a few people (like me), whish to use a UISplitViewController in a "modal" fashion, but ends up finding limitations from the current framework. I still don't know why Apple didn't provide this out-of-the-box for us, as from an usability perspective, the UISplitViewController is almost like an UITableViewController in terms of organizing/showing other views. I also found much confusion on StackOverflow of people doing 'ugly hacks' to get this functionality.
 
